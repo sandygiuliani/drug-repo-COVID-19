@@ -4,7 +4,7 @@ A poor attempt at recycling existing drugs for COVID-19 (yeah, yeah the virus is
 So far I have justed cloned this repo and copied across the old script and I am already tired.
 
 See repos:
-https://github.com/sandygiuliani/drug_repo
+https://github.com/sandygiuliani/drug_repo    
 https://github.com/sandygiuliani/drug_repo2
 
 Paper (drug repositioning for schistosomiasis):
